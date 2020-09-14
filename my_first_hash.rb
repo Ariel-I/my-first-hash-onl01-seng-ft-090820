@@ -1,6 +1,6 @@
 def my_hash
  pet_names = {"cat"=>"Indie", "dog"=>"Watson"}
-
+puts pet_names[cat]
   
 end
 
