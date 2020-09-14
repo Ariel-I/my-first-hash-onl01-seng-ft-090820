@@ -1,5 +1,5 @@
 def my_hash
- pet_names = {}
+ names = {}
 end
 
 
